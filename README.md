@@ -7,7 +7,8 @@ Hey, I'm Rokeeb 👋<br>On-Chain Data Analyst & Web3 Researcher based in Lagos, 
       Build interactive, automated dashboards in Power BI, Streamlit, and Tableau that turn raw onchain data into clear decisions
 ### Data Pipelines:
       Design and orchestrate ETL workflows using Apache Airflow, dbt, and Snowflake
-### Web3 Research:<br>Protocol deep-dives, token economics, governance analysis, and DeFi trend forecasting
+### Web3 Research:
+      Protocol deep-dives, token economics, governance analysis, and DeFi trend forecasting
 
 ## 🛠️ My Stack: 
 ### Onchain & Research
