@@ -1,33 +1,33 @@
 # 💫 About Me:
 Hey, I'm Rokeeb 👋<br>On-Chain Data Analyst & Web3 Researcher based in Lagos, Nigeria.<br>I decode blockchain data into actionable intelligence — tracking wallet behavior, DEX flows, gas dynamics, liquidity rotation, and smart-money patterns across DeFi, NFTs, and Layer 1/2 ecosystems.<br>Microsoft Certified: Power BI Data Analyst Associate.
-# 🔍 What I Do:
-# Onchain Analytics:
+## 🔍 What I Do:
+### Onchain Analytics:
       Write complex SQL queries on Dune Analytics to surface wallet behavior, token momentum, and cross-chain activity
-# Dashboard Development:
+### Dashboard Development:
       Build interactive, automated dashboards in Power BI, Streamlit, and Tableau that turn raw onchain data into clear decisions
-# Data Pipelines:
+### Data Pipelines:
       Design and orchestrate ETL workflows using Apache Airflow, dbt, and Snowflake
-# Web3 Research:<br>Protocol deep-dives, token economics, governance analysis, and DeFi trend forecasting
+### Web3 Research:<br>Protocol deep-dives, token economics, governance analysis, and DeFi trend forecasting
 
 ## 🛠️ My Stack: 
-# Onchain & Research
+### Onchain & Research
 Dune Analytics Nansen Glassnode Arkham Intelligence Flipside Crypto  Etherscan
-# Data & ETL
+### Data & ETL
 Python Pandas SQL  PostgreSQL Apache Airflow  dbt Snowflake
-# Visualization
+### Visualization
 Power BI Streamlit Tableau Matplotlib Excel
-# Engineering
+### Engineering
 Git GitHub Docker
 
 ## 📊 Featured Projects
-# 🔗 Cross-Chain Spot DEX Intelligence Dashboard
+### 🔗 Cross-Chain Spot DEX Intelligence Dashboard
 30-day comparative analysis of Uniswap V3, Jupiter, and Aerodrome — volume, revenue, active traders, market share, and per-trader efficiency across Ethereum, Solana, and Base. Built with Dune SQL.
 
-# ⛽ Multi-Chain Gas Fee Intelligence Dashboard
+### ⛽ Multi-Chain Gas Fee Intelligence Dashboard
 Compares gas costs and efficiency on ETH L1/L2s and Solana via tx counts, avg/median fees, total spend, and normalized per-$1K metrics. Highlights chain dominance and user cost trends.
-# 🐋 Organic Token Momentum Tracker
+### 🐋 Organic Token Momentum Tracker
 SQL-driven wallet tracking dashboard analyzing accumulation, distribution, and liquidity rotation across DeFi protocols. Identifies smart-money behavior before it hits the news cycle.
-# 📈 Power BI DeFi Token Rotation Dashboard
+### 📈 Power BI DeFi Token Rotation Dashboard
 Interactive Power BI tool tracking daily flows and rotation signals in UNI, AAVE, LINK, LDO, and SNX on Ethereum. Pulls live data from Dune Analytics.
 
 ## 📝 Research & Writing
@@ -37,9 +37,9 @@ I publish onchain research and protocol analysis alongside my dashboards. My wor
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rokeeb-bashir/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rankyyy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bashirrokeeb1234@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ranky13&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ranky13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ranky13&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
